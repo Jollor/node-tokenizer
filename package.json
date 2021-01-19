@@ -15,9 +15,6 @@
   "directories": {
     "lib": "lib"
   },
-  "engines": {
-    "node": "0.10.x"
-  },
   "devDependencies": {
     "nodeunit": "~0.8.1"
   },
